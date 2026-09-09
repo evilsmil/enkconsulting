@@ -1,7 +1,7 @@
 export const companyInfo = {
   name: 'ENK Consulting SARL',
   legalName: 'ENK CONSULTING SARL',
-  phone: '+237 693 707 878',
+  phone: '657660351',
   email: 'contact@enk-consulting',
   location: 'Yaoundé-Cameroun, immeuble Dovv Mendong',
   linkedin: 'https://www.linkedin.com/company/enk-consulting-sarl/',
